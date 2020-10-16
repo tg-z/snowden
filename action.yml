@@ -1,2 +1,0 @@
-- name: Link Checker
-  uses: peter-evans/link-checker@v1.2.1
