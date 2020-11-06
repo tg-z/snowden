@@ -61,4 +61,3 @@ to my mother, Wendy, and to my brilliant sister, Jessica.
 
 The only way I can end this book is the way I began it: with a dedication to
 Lindsay, whose love makes life out of exile.
-
