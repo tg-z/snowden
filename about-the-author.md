@@ -12,5 +12,5 @@ League of Human Rights. Currently, he serves as president of the board of
 directors of the Freedom of the Press Foundation.
 
 [![image](../images/00004.gif)![image](../images/00004.gif)](https://www.facebook.com/edwardsnowdenprism/)
-[![image](../images/00005.gif)![image](../images/00005.gif)](https://twitter.com/Snowden)
+![https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_400x400.jpg](https://twitter.com/Snowden)
 
