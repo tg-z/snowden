@@ -9554,7 +9554,7 @@ Otherwise, this is how it was, from the moment that I left Hawaii.
 
 # 29 
 
-# Love and Exi
+# Love and Exile
 
 If at any point during your journey through this book you paused for a moment
 over a term you wanted to clarify or investigate further and typed it into a
