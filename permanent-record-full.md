@@ -9552,10 +9552,9 @@ Otherwise, this is how it was, from the moment that I left Hawaii.
 > cools and hardens. The ash they shoot into the air sprinkles down as
 > minerals, which fertilize the earth and make new life grow.
 
+# 29 
 
-# [**29**](part0039.html#c_ch29)
-
-# [Love and Exile](part0039.html#c_ch29)
+# Love and Exi
 
 If at any point during your journey through this book you paused for a moment
 over a term you wanted to clarify or investigate further and typed it into a
