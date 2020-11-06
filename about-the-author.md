@@ -1,6 +1,7 @@
 ABOUT THE AUTHOR
 
 ![Permanent Record by Edward Snowden](https://upload.wikimedia.org/wikipedia/en/a/a0/Edward_Snowden_-_Permanent_Record_%28cover%29.jpg)
+
 **[Edward Snowden](http://www.panmacmillan.com/authors/edward-snowden)** was
 born in Elizabeth City, North Carolina, and grew up in the shadow of Fort
 Meade. A systems engineer by training, he served as an officer of the Central
@@ -12,8 +13,6 @@ League of Human Rights. Currently, he serves as president of the board of
 directors of the Freedom of the Press Foundation.
 
 [facebook](https://www.facebook.com/edwardsnowdenprism/)
-
-![twitter](https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_400x400.jpg)
 
 [twitter](https://twitter.com/Snowden)
 
