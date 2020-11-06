@@ -1,7 +1,6 @@
 ABOUT THE AUTHOR
 
-![](../images/00003.jpeg)
-
+![Permanent Record by Edward Snowden](https://upload.wikimedia.org/wikipedia/en/a/a0/Edward_Snowden_-_Permanent_Record_%28cover%29.jpg)
 **[Edward Snowden](http://www.panmacmillan.com/authors/edward-snowden)** was
 born in Elizabeth City, North Carolina, and grew up in the shadow of Fort
 Meade. A systems engineer by training, he served as an officer of the Central
