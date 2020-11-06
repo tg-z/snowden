@@ -14,5 +14,5 @@ directors of the Freedom of the Press Foundation.
 [facebook](https://www.facebook.com/edwardsnowdenprism/)
 ![twitter](https://pbs.twimg.com/profile_images/648888480974508032/66_cUYfj_400x400.jpg)
 
-(https://twitter.com/Snowden)
+[twitter](https://twitter.com/Snowden)
 
