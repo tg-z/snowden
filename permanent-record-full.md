@@ -4,7 +4,7 @@
 _To L_
 
 
-# [Preface](part0039.html#c_pre)
+# Preface
 
 My name is Edward Joseph Snowden. I used to work for the government, but now I
 work for the public. It took me nearly three decades to recognize that there
